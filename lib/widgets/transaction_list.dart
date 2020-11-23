@@ -25,7 +25,7 @@ class TransactionList extends StatelessWidget {
                 Container(
                     height: 200,
                     child: Image.asset(
-                      'assets/images/waiting.png',
+                      'images/waiting.png',
                       fit: BoxFit.cover,
                     )),
               ],
@@ -44,7 +44,7 @@ class TransactionList extends StatelessWidget {
                       child: Padding(
                         padding: EdgeInsets.all(6),
                         child: FittedBox(
-                          child: Text('\$${transactions[index].amount}'),
+                          child: Text('INR${transactions[index].amount}'),
                         ),
                       ),
                     ),
