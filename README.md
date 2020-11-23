@@ -1,24 +1,16 @@
-## Ms.Expenditure
-A weekly expenses tracking app.
+# personal_expenses_app
 
-## Requirement
-1.Flutter installed on your machine
-2.An Android or iOS device
-3.An active internet connection
+A new Flutter project.
 
 ## Getting Started
-It's easy to get started. Just plug in your device and build the application. To build the application, just:
 
-If you use IDE's for flutter development
-Connect your device
-Build the application by the IDE you use for flutter development.
-Or run flutter run --release on your console to build the app.
-If you use terminal or CMD for flutter development
-Connect your device
-Run flutter run --release on your console
-If you want to just build the apk
-Run flutter build apk --release (for Android users)
-PS, if you face any issues anywhere please feel free to open up a thread. I would love to help you out as soon as possible.
+This project is a starting point for a Flutter application.
 
-## Known Issue
-Doesnt work in landscape mode.
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
